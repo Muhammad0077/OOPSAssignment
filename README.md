@@ -1,2 +1,0 @@
-# OOPSAssignment
-Assignment 01
